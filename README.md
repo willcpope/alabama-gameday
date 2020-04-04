@@ -1,5 +1,5 @@
 # Alabama Football Game Day Fan Experience
-![Bryant-Denny Stadium](images/bds.jpg)
+![Bryant-Denny Stadium](images/bds.png)
 
 
 This survey was conducted to determine if there are any correlations between individual importance of various aspects of the Alabama Football game day fan experience.
