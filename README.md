@@ -1,16 +1,19 @@
 # Alabama Football Game Day Fan Experience
+![Bryant-Denny Stadium](Images/bds.jpg)
+
+
 This survey was conducted to determine if there are any correlations between individual importance of various aspects of the Alabama Football game day fan experience.
 
 ## Sample Size Demographics
 I personally designed the survey using Google Forms and collected responses from: Facebook, LinkedIn, and Reddit.
 
-![Test Image 1](images/age.png)
+![Age](images/age.png)
 
 ## Findings
-![Test Image 1](images/age_grouped.png)
-![Test Image 1](images/age_seperate.png)
-![Test Image 1](images/corrmatrix.png)
-![Test Image 1](images/clustermap.png)
+![Ages Grouped](images/age_grouped.png)
+![Ages Seperate](images/age_seperate.png)
+![Corr Matrix](images/corrmatrix.png)
+![Clustermap](images/clustermap.png)
 
 ## Progress
 - [x] Create Survey
