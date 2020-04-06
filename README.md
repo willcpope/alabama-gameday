@@ -4,7 +4,7 @@
 This survey was conducted to determine if there are any correlations between individual importance of various aspects of the Alabama Football game day fan experience.
 
 ## Sample Size Demographics
-I personally designed the survey using Google Forms and collected responses from: Facebook, LinkedIn, and Reddit. The sample size is too small to extract any accurate insights but it displays ways of identifying important correlations in the fan/guest experience. This correlations will help live event experience decision making related to: branding, marketing and ticket package development.
+I personally designed the survey using Google Forms and collected responses from: Facebook, LinkedIn, and Reddit. The sample size is too small to extract any accurate insights but it displays ways of identifying important correlations in the fan/guest experience using survey data. This correlations will help live event experience decision making related to: branding, marketing and ticket package development.
 
 ![Age](images/age.png)
 
