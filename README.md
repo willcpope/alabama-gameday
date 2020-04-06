@@ -3,15 +3,15 @@
 
 This survey was conducted to identifying important correlations in the fan experience at an Alabama Football game in Tuscaloosa.
 
-## Sample Size Demographics
-I personally designed the survey using Google Forms and collected responses from: Facebook, LinkedIn, and Reddit. The current dataset is too small to extract accurate insights but it displays ways of identifying important correlations in the fan/guest experience using survey data. 
-
 These correlations will help live event experience decision making related to: 
 
 - Branding
 - Marketing
 - Ticket package development
 - Partnership package development
+
+## Sample Size Demographics
+I personally designed the survey using Google Forms and collected responses from: Facebook, LinkedIn, and Reddit. The current dataset is too small to extract accurate insights but it displays ways of identifying important correlations in the fan/guest experience using survey data. 
 
 ![Age](images/age.png)
 
