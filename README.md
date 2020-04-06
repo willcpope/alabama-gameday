@@ -16,10 +16,7 @@ I personally designed the survey using Google Forms and collected responses from
 ![Age](images/age.png)
 
 ## Findings
-![Ages Grouped](images/age_grouped.png)
-![Ages Seperate](images/age_seperate.png)
-
-### Experiences
+### Experience Key
 - Visiting the Quad
 - Visiting a local bar
 - Visiting a local restaurant
@@ -38,6 +35,8 @@ I personally designed the survey using Google Forms and collected responses from
 - Autograph sessions with other teams or celebrities
 - Visiting corporate activations (Coca-Cola Kickoff Zone, Mercedes Benz Fan Fest, Nissan Heisman House, etc.)
 
+![Ages Grouped](images/age_grouped.png)
+![Ages Seperate](images/age_seperate.png)
 ![Corr Matrix](images/corrmatrix.png)
 ![Clustermap](images/clustermap.png)
 
