@@ -1,7 +1,7 @@
 # Alabama Football Game Day Fan Experience
 ![Bryant-Denny Stadium](images/stadium.png)
 
-This survey was conducted to determine if there are any correlations between individual importance of various aspects of the Alabama Football game day fan experience.
+This survey was conducted to identifying important correlations in the fan experience at an Alabama Football game in Tuscaloosa.
 
 ## Sample Size Demographics
 I personally designed the survey using Google Forms and collected responses from: Facebook, LinkedIn, and Reddit. The sample size is too small to extract any accurate insights but it displays ways of identifying important correlations in the fan/guest experience using survey data. These correlations will help live event experience decision making related to: branding, marketing and ticket package development.
